@@ -1,54 +1,49 @@
-package com.example.toshiba.jhotel_android_caktifadhillah;
-/**
- * Class Room
- *
- * @author Cakti Fadhillah
- * @version 1.2
- * @since 03-05-18
- */
-public class Room {
+package com.toshiba.jhotel_android_caktifadhillah;
+
+public class Room
+{
     private String roomNumber;
     private String statusKamar;
     private double dailyTariff;
-    private String tipeKamar;
+    private  String tipeKamar;
 
-    public Room(String roomNumber, String statusKamar, double dailyTariff, String tipeKamar) {
+    public Room(String roomNumber, String statusKamar, double dailyTariff,String tipeKamar)
+    {
+        this.dailyTariff = dailyTariff;
         this.roomNumber = roomNumber;
         this.statusKamar = statusKamar;
         this.tipeKamar = tipeKamar;
-        this.dailyTariff = dailyTariff;
     }
 
-    public void setroomNumber(String roomNumber) {
-        this.roomNumber = roomNumber;
+    public double getDailyTariff() {
+        return dailyTariff;
     }
 
-    public void setstatusKamar(String statusKamar) {
-        this.statusKamar = statusKamar;
+    public String getRoomNumber() {
+        return roomNumber;
+    }
+
+    public String getStatusKamar() {
+        return statusKamar;
+    }
+
+    public String getTipeKamar() {
+        return tipeKamar;
     }
 
     public void setDailyTariff(double dailyTariff) {
         this.dailyTariff = dailyTariff;
     }
 
-    public void settipeKamar(String tipeKamar) {
+    public void setRoomNumber(String roomNumber) {
+        this.roomNumber = roomNumber;
+    }
+
+    public void setStatusKamar(String statusKamar) {
+        this.statusKamar = statusKamar;
+    }
+
+    public void setTipeKamar(String tipeKamar) {
         this.tipeKamar = tipeKamar;
     }
-
-    public String getroomNumber() {
-        return roomNumber;
-    }
-
-    public String getstatusKamar() {
-        return statusKamar;
-    }
-
-    public String gettipeKamar() {
-        return tipeKamar;
-    }
-
-    public double getDailyTariff() {
-        return dailyTariff;
-    }
 }
-
