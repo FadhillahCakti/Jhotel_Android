@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\0c4f7a15c2e7f364a099ec3e8253bae1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b36f859e088a071a97d4f73f42d6f2b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0ee8623bf666c18e894bf7a59439799\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a346dad9a679ad9367972bf2a3025893\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c09b3ea22dbae9153376608d4b051f7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ccaa9edabf5b6eba2fd96826cf959e9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\09382dfeed46d5f05f5d1cf14b037267\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5556fbb2c9eef86dabd642f5e408e7ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\755bfdf47b82c4a43468f537ccf3f611\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8b4142f83d6376651e82e59d5928300d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\51a9d6d13e9f014d84ab228e005ff29a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5fb28eb406ec518a07e6625be46085d0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19fde2fab93a3dccfb4bf060b3d8b08b\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\0c4f7a15c2e7f364a099ec3e8253bae1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\0c4f7a15c2e7f364a099ec3e8253bae1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0ee8623bf666c18e894bf7a59439799\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0ee8623bf666c18e894bf7a59439799\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.toshiba.jhotel_android_caktifadhillah.LoginActivity
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.toshiba.jhotel_android_caktifadhillah.RegisterActivity
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:21:19-51
+activity#com.toshiba.jhotel_android_caktifadhillah.MainActivity
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.toshiba.jhotel_android_caktifadhillah.BuatPesananActivity
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:23:9-57
+	android:name
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:23:19-54
+activity#com.toshiba.jhotel_android_caktifadhillah.SelesaiPesananActivity
+ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:24:9-69
+	android:name
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml:24:19-57
+uses-sdk
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\0c4f7a15c2e7f364a099ec3e8253bae1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\0c4f7a15c2e7f364a099ec3e8253bae1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b36f859e088a071a97d4f73f42d6f2b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b36f859e088a071a97d4f73f42d6f2b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0ee8623bf666c18e894bf7a59439799\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0ee8623bf666c18e894bf7a59439799\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a346dad9a679ad9367972bf2a3025893\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a346dad9a679ad9367972bf2a3025893\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c09b3ea22dbae9153376608d4b051f7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c09b3ea22dbae9153376608d4b051f7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ccaa9edabf5b6eba2fd96826cf959e9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ccaa9edabf5b6eba2fd96826cf959e9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\09382dfeed46d5f05f5d1cf14b037267\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\09382dfeed46d5f05f5d1cf14b037267\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5556fbb2c9eef86dabd642f5e408e7ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5556fbb2c9eef86dabd642f5e408e7ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\755bfdf47b82c4a43468f537ccf3f611\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\755bfdf47b82c4a43468f537ccf3f611\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8b4142f83d6376651e82e59d5928300d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8b4142f83d6376651e82e59d5928300d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\51a9d6d13e9f014d84ab228e005ff29a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\51a9d6d13e9f014d84ab228e005ff29a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5fb28eb406ec518a07e6625be46085d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5fb28eb406ec518a07e6625be46085d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19fde2fab93a3dccfb4bf060b3d8b08b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Toshiba\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19fde2fab93a3dccfb4bf060b3d8b08b\AndroidManifest.xml:20:5-44
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+		ADDED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JHotel_Android_CaktiFadhillah\app\src\main\AndroidManifest.xml
